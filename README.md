@@ -23,6 +23,7 @@ This project transforms text files into high-quality audiobook-style speech usin
 3. Add a text file named input_text.txt in the project directory with the content you want to convert into an audiobook.
 4. add your openai api key in your environment variables.
 
+https://zyrae.com
 ## Usage
 1. Write or paste the text of your book or story into input_text.txt.
 2. Run the script:
